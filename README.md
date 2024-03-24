@@ -1,4 +1,4 @@
-# SimCard (sigmod 2021)
+# SimCard Implementation (sigmod 2021)
 
 # Usages
 /run/clutsering.py: cluster data series into 100 clusters;
